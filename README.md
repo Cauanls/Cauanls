@@ -4,10 +4,10 @@
 - 📫 Contate-me no email: cauanunes.2004.06@gmail.com
   
 <a href="https://github.com/Cauanls/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cauanls&theme=dracula" />
+  <img height=200 width="42% align="center" src="https://github-readme-stats.vercel.app/api?username=Cauanls&theme=dracula" />
 </a>
 <a href="https://github.com/Cauanls/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cauanls&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 width="50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cauanls&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
