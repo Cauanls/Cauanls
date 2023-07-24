@@ -1,7 +1,7 @@
 ## Ola eu sou o Caua Nunes 
 
 - 🌱 Estudando python e javascript
-- 📫 Contate-me no email: cauanunes.2004.06@gmail.com
+- 📫 Contate-me no email: cauanunes.200406@gmail.com
   
 <a href="https://github.com/Cauanls/github-readme-stats">
   <img height=200 width="48% align="center" src="https://github-readme-stats.vercel.app/api?username=Cauanls&theme=dracula" />
