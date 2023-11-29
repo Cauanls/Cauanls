@@ -1,6 +1,6 @@
 ## Ola eu sou o Caua Nunes 
 
-- 🌱 Estudando python e javascript
+- 🌱 Estudando java
 - 📫 Contate-me no email: cauanunes.200406@gmail.com
   
 <a href="https://github.com/Cauanls/github-readme-stats">
